@@ -39,11 +39,3 @@ git clone https://github.com/yourusername/project_moneymaker.git
 ├── index.html         # Main HTML file
 └── README.md          # Project documentation
 ```
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request
