@@ -1,0 +1,26 @@
+:root {
+    /* Colors */
+    --color-bg: #ffffff;
+    --color-text: #222222;
+    --color-muted: #777777;
+    --color-primary: #0a84ff;
+
+    /* Layout */
+    --container-width: 1200px;
+    --header-height: 72px;
+    --footer-height: 160px;
+
+    /* Radii & shadows */
+    --radius-sm: 4px;
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+html {
+    font-size: var(--base-font-size);
+}
+body {
+    font-family: var(--font-sans);
+    color: var(--color-text);
+    background: var(--color-bg);
+    line-height: var(--line-height);
+}
